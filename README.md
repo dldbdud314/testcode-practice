@@ -6,4 +6,5 @@
 - https://assertj.github.io/doc/#assertj-core-assertions-guide
 - https://www.baeldung.com/introduction-to-assertj
 - https://www.baeldung.com/parameterized-tests-junit-5
+- https://gmlwjd9405.github.io/2019/11/27/junit5-guide-parameterized-test.html
 - https://covenant.tistory.com/256
